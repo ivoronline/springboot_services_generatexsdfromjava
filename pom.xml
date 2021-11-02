@@ -44,6 +44,9 @@
         </executions>
 
         <configuration>
+          <sources>
+            <source>src/main/java/com/ivoronline</source>
+          </sources>
           <transformSchemas>
             <transformSchema>
               <uri>https://ivoronline.com/person</uri>
